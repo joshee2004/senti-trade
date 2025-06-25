@@ -1,0 +1,5 @@
+{
+  "name": "SentiTrade: AI Stock Sentiment Analyzer",
+  "description": "An AI-powered web application that analyzes stock sentiment and predicts short-term price trends using the Gemini API. Users can input a stock ticker to receive insights including sentiment, trend, confidence score, key factors, potential risks, and recent news highlights.",
+  "requestFramePermissions": []
+}
